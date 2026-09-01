@@ -101,22 +101,6 @@ Other Pillow-supported image modes are converted automatically to either `RGB` o
 
 ---
 
-## Installation
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/Phiandi/PRODIGY_CS_02.git
-cd PRODIGY_CS_02
-```
-
-### 2. Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 ## Usage
 
