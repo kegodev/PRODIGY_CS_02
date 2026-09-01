@@ -160,7 +160,7 @@ PRODIGY_CS_02/
 ├── README.md
 ├── .gitignore
 │
-└── tests/
+└── test/
     └── test_main.py
 ```
 
